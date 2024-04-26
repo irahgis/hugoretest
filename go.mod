@@ -1,3 +1,3 @@
-module github.com/razonyang/hugo-theme-bootstrap
+module github.com/irahgis/hugoretest
 
 go 1.17
